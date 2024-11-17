@@ -1,0 +1,14 @@
+Flask
+openCV-python
+NumPy
+Scikit-learn
+pandas
+Joblib
+mediapipe
+autopy
+pyautogui
+cvzone
+pynput
+pygame
+tensorflow
+ker
