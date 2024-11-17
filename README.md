@@ -23,10 +23,6 @@ This is a Flask-based web application that uses face recognition to mark attenda
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/face-recognition-attendance.git
-   cd face-recognition-attendance
-   ```
 
 2. **Install dependencies**:
    ```bash
