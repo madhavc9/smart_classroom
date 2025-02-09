@@ -107,15 +107,6 @@
     </details>
  <hr>
     <details>
-        <summary>📝 References & Research Papers</summary>
-        <ul>
-            <li>Al-Janabi, S., & Hussain, F. K. (2021). <a href="https://doi.org/10.1109/ACCESS.2021.3047149">Energy-saving smart lighting in IoT environment</a>. IEEE Access.</li>
-            <li>Jadhav, S., Shinde, P., & Rajurkar, S. (2020). <a href="https://jestec.taylors.edu.my/">Real-time face recognition-based smart attendance system</a>. Journal of Engineering Science.</li>
-            <li>Nguyen, H. D., & Zhang, Z. (2019). <a href="https://doi.org/10.3390/s19112405">Gesture recognition for IoT-enabled virtual mouse systems</a>. Sensors.</li>
-        </ul>
-    </details>
- <hr>
-    <details>
         <summary>📧 Contact & Contribution</summary>
         <p>If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.</p>
         <p>For queries, reach out via:</p>
