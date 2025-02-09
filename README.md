@@ -68,9 +68,33 @@
         <summary>📸 Check Captured Screenshot</summary>
         <p>Below are few screenshot of the Smart Classroom models in action:</p>
         <br>
-        <div align="center">
-            <img src="madhav_hsd.png" alt="Captured Screenshot" width="600">
-        </div>
+          <ul>
+    <li>
+      <strong>Login Page</strong><br>
+      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/login_page.png" alt="Login Page Screenshot" width="600">
+    </li>
+    <br>
+    <li>
+      <strong>Signup Page</strong><br>
+      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/signup_page.png" alt="Signup Page Screenshot" width="600">
+    </li>
+    <br>
+     <br>
+    <li>
+      <strong>Face Analysis Page</strong><br>
+      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/face_analysis.png" alt="Face Analysis Screenshot" width="600">
+    </li>
+     <br>
+    <li>
+      <strong>New Appointment Page</strong><br>
+      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/new_appointment.png" alt="New Appointment Screenshot" width="600">
+    </li>
+     <br>
+      <li>
+      <strong>Doctor Appointment Page</strong><br>
+      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/doctor_appointment.png" alt="Doctor Appointment Page" width="600">
+    </li>
+  </ul>
     </details>
 <hr>
     <details>
