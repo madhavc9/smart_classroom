@@ -58,7 +58,7 @@
     <details>
         <summary>🚀 Installation & Setup</summary>
         <p>Follow these steps to set up the project:</p>
-        <pre><code>git clone https://github.com/your-repo/smart-classroom.git</code></pre>
+        <pre><code>git clone https://github.com/madhavc9/smart_classroom.git</code></pre>
         <pre><code>cd smart-classroom</code></pre>
         <pre><code>pip install -r requirements.txt</code></pre>
         <pre><code>python app.py</code></pre>
@@ -98,7 +98,7 @@
         <ul>
             <li>📩 Email: <a href="mailto:ranmadhav@gmail.com">ranmadhav@gmail.com</a></li>
             <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/madhav-choudhary-015124216/">Madhav's LinkedIn</a></li>
-            <li>🐙 GitHub: <a href="https://github.com/yourgithub">yourgithub</a></li>
+            <li>🐙 GitHub: <a href="https://github.com/madhavc9/smart_classroom">madhavc9</a></li>
         </ul>
     </details>
 
