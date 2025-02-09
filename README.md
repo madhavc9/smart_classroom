@@ -8,7 +8,6 @@
         <summary>📌 Introduction</summary>
     <p>The Smart Classroom project revolutionizes traditional learning spaces by integrating IoT and AI technologies to enhance efficiency, engagement, and automation. This system automates attendance tracking using facial recognition, ensuring accurate and seamless student identification. Additionally, it monitors student engagement through advanced emotion detection algorithms and detects drowsiness to maintain attentiveness, creating a more responsive learning environment.</p>
 <p>Interactive tools such as Smartboards, Virtual Keyboards, and Gesture-Controlled Mice enhance student participation and collaboration. PIR sensor-based automatic lighting optimizes energy usage, reducing waste and improving sustainability. By leveraging machine learning, computer vision, and embedded systems, the Smart Classroom fosters an adaptive, data-driven, and accessible educational environment, streamlining administrative tasks and enriching student-teacher interactions.</p>
-
     </details>
    <hr>
     <details>
