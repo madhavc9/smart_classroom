@@ -70,29 +70,29 @@
         <br>
           <ul>
     <li>
-      <strong>Login Page</strong><br>
-      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/login_page.png" alt="Login Page Screenshot" width="600">
+      <strong>Drowsiness Detector</strong><br>
+      <img src="https://github.com/madhavc9/smart_classroom/blob/main/screenshots/drowsiness_detection.png" alt="Drowsiness Detector" width="600">
     </li>
     <br>
     <li>
-      <strong>Signup Page</strong><br>
-      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/signup_page.png" alt="Signup Page Screenshot" width="600">
+      <strong>Virtual Mouse</strong><br>
+      <img src="https://github.com/madhavc9/smart_classroom/blob/main/screenshots/virtual_mouse.png" alt="Virtual Mouse Screenshot" width="600">
     </li>
     <br>
      <br>
     <li>
-      <strong>Face Analysis Page</strong><br>
-      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/face_analysis.png" alt="Face Analysis Screenshot" width="600">
+      <strong>Smart Board</strong><br>
+      <img src="http://github.com/madhavc9/smart_classroom/blob/main/screenshots/smart_board.png" alt="Smart Board Screenshot" width="600">
     </li>
      <br>
     <li>
-      <strong>New Appointment Page</strong><br>
-      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/new_appointment.png" alt="New Appointment Screenshot" width="600">
+      <strong>Proctored Exam</strong><br>
+      <img src="https://github.com/madhavc9/smart_classroom/blob/main/screenshots/proctored_exam.png" alt="Proctored Exam Screenshot" width="600">
     </li>
      <br>
       <li>
-      <strong>Doctor Appointment Page</strong><br>
-      <img src="https://github.com/madhavc9/Project-SkInsight/raw/main/web_demo_images/doctor_appointment.png" alt="Doctor Appointment Page" width="600">
+      <strong>Face Recognition and Attendance</strong><br>
+      <img src="https://github.com/madhavc9/smart_classroom/blob/main/screenshots/Attendance_system.png" alt="Attendance Logo" width="600">
     </li>
   </ul>
     </details>
