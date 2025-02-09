@@ -96,8 +96,8 @@
         <p>If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.</p>
         <p>For queries, reach out via:</p>
         <ul>
-            <li>📩 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-            <li>🔗 LinkedIn: <a href="https://linkedin.com/in/yourprofile">yourprofile</a></li>
+            <li>📩 Email: <a href="mailto:ranmadhav@gmail.com">ranmadhav@gmail.com</a></li>
+            <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/madhav-choudhary-015124216/">Madhav's LinkedIn</a></li>
             <li>🐙 GitHub: <a href="https://github.com/yourgithub">yourgithub</a></li>
         </ul>
     </details>
