@@ -102,9 +102,9 @@
     </details>
 
 </div>
-
 </body>
 </html>
+<hr>
 <div align="center">
   HAPPY CODING ⭐ !!
 </div>
