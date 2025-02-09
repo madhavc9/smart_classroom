@@ -2,8 +2,19 @@
 <html lang="en">
 <body>
 <div class="container">
-    <h1>🚀 Smart Classroom Project</h1>
-    <p><strong>Transforming traditional classrooms into intelligent, automated, and interactive learning spaces with IoT & AI.</strong></p>
+    <!-- PROJECT LOGO -->
+<div align="center">
+  <img src="/iot_logo.png" alt="Smart_classroom Logo" width="600">
+  <h3 align="center">🚀 Smart Classroom Project</h3>
+  <p align="center">
+   <strong>Transforming traditional classrooms into intelligent, automated, and interactive learning spaces with IoT & AI.</strong>
+    <br />
+    <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a>
+    <br />
+    <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a>
+    <br />
+  </p>
+</div>
     <details>
         <summary>📌 Introduction</summary>
     <p>The Smart Classroom project revolutionizes traditional learning spaces by integrating IoT and AI technologies to enhance efficiency, engagement, and automation. This system automates attendance tracking using facial recognition, ensuring accurate and seamless student identification. Additionally, it monitors student engagement through advanced emotion detection algorithms and detects drowsiness to maintain attentiveness, creating a more responsive learning environment.</p>
@@ -52,6 +63,15 @@
         <pre><code>python app.py</code></pre>
     </details>
  <hr>
+    <details>
+        <summary>📸 Check Captured Screenshot</summary>
+        <p>Below are few screenshot of the Smart Classroom models in action:</p>
+        <br>
+        <div align="center">
+            <img src="madhav_hsd.png" alt="Captured Screenshot" width="600">
+        </div>
+    </details>
+<hr>
     <details>
         <summary>🎯 Future Enhancements</summary>
         <ul>
