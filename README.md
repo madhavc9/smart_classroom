@@ -82,7 +82,7 @@
      <br>
     <li>
       <strong>Smart Board</strong><br>
-      <img src="http://github.com/madhavc9/smart_classroom/blob/main/screenshots/smart_board.png" alt="Smart Board Screenshot" width="600">
+      <img src="https://github.com/madhavc9/smart_classroom/blob/main/screenshots/smart_board.png" alt="Smart Board Screenshot" width="600">
     </li>
      <br>
     <li>
